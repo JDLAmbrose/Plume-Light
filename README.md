@@ -2,7 +2,7 @@
   <img src="assets/plume_light_logo_horizontal.svg" alt="Plume Light" width="380">
 </p>
 
-[繁體中文](#traditional-chinese) · [English](#english-version)
+[English](#english-version) · [繁體中文](#traditional-chinese) 
 
 <a id="english-version"></a>
 # Plume Light — English Version
